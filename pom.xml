@@ -8,7 +8,7 @@
   <version>1.0</version>
 
   <name>Google Guice Samples</name>
-  <url>http://blog.japila.pl/tags/guice</url>
+  <url>http://blog.japila.pl/tag/guice/</url>
 
   <modules>
     <module>guice-bindconstant</module>
