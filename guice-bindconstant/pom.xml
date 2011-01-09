@@ -11,7 +11,7 @@
   <packaging>jar</packaging>
 
   <name>guice-bindconstant</name>
-  <url>http://blog.japila.pl/tags/guice</url>
+  <url>http://blog.japila.pl/tag/guice/</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
